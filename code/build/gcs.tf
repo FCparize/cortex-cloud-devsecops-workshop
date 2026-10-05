@@ -1,5 +1,5 @@
 provider "google" {
-  project = "qwiklabs-gcp-03-b644447cd302" ## ID do seu projeto ativo
+  project = "qwiklabs-gcp-01-71b0561989e8" ## ID do seu projeto ativo
   region  = "us-central1"
 }
 
